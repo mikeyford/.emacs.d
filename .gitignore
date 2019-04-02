@@ -2,8 +2,11 @@
 
 !.gitignore
 !init.el
+!elpa/
 !elpa/*
+!extras/
 !extras/*
+!themes/
 !themes/*
 
 
